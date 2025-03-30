@@ -59,7 +59,7 @@ loan-app/
 ## 🛠 Installation Guide
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/anupam715code/Loan-App.git
+git clone https://github.com/anupamAtBastionex/Loan-App.git
 
 cd Loan-App
 ```
@@ -110,7 +110,7 @@ http://localhost/loan-app/
 ---
 
 ## 🛠 Technologies Used
-- **PHP 8.2** (CodeIgniter 3 Framework)
+- **PHP 7.4+ (CodeIgniter 3 Framework)
 - **MySQL** (Database Management)
 - **Bootstrap 5** (UI Styling)
 - **jQuery** (Frontend Enhancements)
